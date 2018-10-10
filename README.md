@@ -13,7 +13,7 @@ brew tap gocarrot/ndkversions
 Now you can install any version hosted as cask with
 
 ```bash
-brew cask install android-ndk@r10e
+brew cask install android-ndk@10e
 ```
 
 The Android NDK will be installed at `/usr/local/Caskroom/android-ndk/$VERSION`. You can install multiple versions at the same time.
@@ -26,7 +26,7 @@ Adobe Air SDK Versions available
 | Version    |
 | ---------: |
 |         18 |
-|       r10e |
+|        10e |
 
 
 License
