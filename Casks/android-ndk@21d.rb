@@ -1,4 +1,4 @@
-cask 'android-ndk@18' do
+cask 'android-ndk@21d' do
     version '21d'
     sha256 '5851115c6fc4cce26bc320295b52da240665d7ff89bda2f5d5af1887582f5c48'
   
